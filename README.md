@@ -10,7 +10,20 @@
 ███████║███████║██████╔╝███████╗███████║██║   ██║   
 ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║   ██║   
 ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝  
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗████████╗
+╚██████╔╝██║  ██║██║  ██║███████║██║  ██║██║   ██║
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=16&pause=1000&color=00FF41&background=0D110000&center=true&vCenter=true&width=500&lines=_+whoami;%3E+Harshit+Rajput;_+cat+about.txt;%3E+Builder.+Debugger.+Problem+Solver.;_+echo+%24CURRENT_MISSION;%3E+Writing+clean+code+%26+cracking+DSA" alt="Typing"/>
